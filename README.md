@@ -16,6 +16,9 @@
 I create websites using modern development tools and develop my skills in frontend development. </br>
 I also like to use 3D graphics in frontend to make even more beautiful and unusual websites </br>
 
+<h3 align="center">
+   <a href="https://portfolio-react-ib1zza.vercel.app/">• My React portfolio (click)           </a> &nbsp;&nbsp;&nbsp; <a href="https://threejs-portfolio-ib1zza.vercel.app/">• My ThreeJs portfolio (click)</a>
+</h3>
 
 <h2 align="center">
   Technologies that I use:
@@ -123,12 +126,7 @@ I also like to use 3D graphics in frontend to make even more beautiful and unusu
    
 </div>
 
-<h3 align="left">
-   <a style="text-decoration: none;" href="https://portfolio-react-ib1zza.vercel.app/">My React portfolio (click)</a>
-</h3>
-<h3 align="left">
-   <a style="text-decoration: none;" href="https://threejs-portfolio-ib1zza.vercel.app/">My ThreeJs portfolio (click)</a>
-</h3>
+
 
 
 <!--
