@@ -8,8 +8,11 @@
 <h2 align="center">
   About me
 </h2>
-
-I am currently in college majoring in computer science. </br>
+:man_student: I am a college student majoring in programming. </br>
+:man_technologist:  I'm currently working on a project  <a href="https://github.com/ib1zza/react-kanban">
+                     React-Kanban
+                  </a>
+</br>
 I create websites using modern development tools and develop my skills in frontend development. </br>
 I also like to use 3D graphics in frontend to make even more beautiful and unusual websites </br>
 
