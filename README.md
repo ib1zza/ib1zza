@@ -1,13 +1,15 @@
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=Hello+there!;I'm+Mikhail+Pshenichnyy+;Front-end+developer" alt="Typing SVG" /></a>
-</div>
+
 
 
 
 <h2 align="center">
-  About me
+  :sparkles: About me
 </h2>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=Hello+there!;I'm+Mikhail+Pshenichnyy+;Front-end+developer" alt="Typing SVG" /></a>
+</div>
+
 :man_student: I am a college student majoring in programming. </br>
 :man_technologist:  I'm currently working on a project  <a href="https://github.com/ib1zza/react-kanban">
                      React-Kanban
@@ -21,7 +23,7 @@ I also like to use 3D graphics in frontend to make even more beautiful and unusu
 </h3>
 
 <h2 align="center">
-  Technologies that I use:
+  :hammer_and_wrench: Technologies that I use:
 </h2>
 
 <div align="center"> 
@@ -110,14 +112,14 @@ I also like to use 3D graphics in frontend to make even more beautiful and unusu
 
 
 <h2 align="center">
-  Contact me
+  :speech_balloon: Contact me
 </h2>
   
 - Email: <a href="mailto:ib1zza@icloud.com">ib1zza@icloud.com</a>
 - Telegram: <a href="https://t.me/ib1zza">@ib1zza</a>
  
 <h2 align="center">
-   My codewars
+  :man_technologist: My codewars
 </h2>
 
 <div align="center">
