@@ -75,7 +75,7 @@ I also like to use 3D graphics in frontend to make even more beautiful and unusu
                   <br>Redux
               </td>
              <td align="center" width="96">
-                  <a href="https://nodejs.org">
+                  <a href="https://jestjs.io/ru/">
                       <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
                   </a>
                   <br>Jest
@@ -83,25 +83,25 @@ I also like to use 3D graphics in frontend to make even more beautiful and unusu
             </tr>
             <tr>
               <td align="center" width="96">
-                  <a href="https://nodejs.org">
+                  <a href="https://storybook.js.org">
                       <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" width="48" height="48" alt="Storybook" />
                   </a>
                   <br>Storybook
               </td>
                <td align="center" width="96">
-                  <a href="https://nodejs.org">
+                  <a href="https://nextjs.org">
                       <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next js" />
                   </a>
                   <br>Next js
               </td>
               <td align="center" width="96">
-                  <a href="https://nodejs.org">
+                  <a href="https://firebase.google.com">
                       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
                   </a>
                   <br>Firebase
               </td>
               <td align="center" width="96">
-                  <a href="https://nodejs.org">
+                  <a href="https://www.i18next.com">
                       <img src="https://www.vectorlogo.zone/logos/i18next/i18next-icon.svg" width="48" height="48" alt="i18n" />
                   </a>
                   <br>i18n
