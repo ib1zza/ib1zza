@@ -23,7 +23,7 @@ I also like to use 3D graphics in frontend to make even more beautiful and unusu
 </h3>
 
 <h2 align="center">
-  :hammer_and_wrench: Technologies that I use:
+  🔨 Technologies that I use:
 </h2>
 
 <div align="center"> 
