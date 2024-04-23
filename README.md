@@ -19,7 +19,7 @@ I create websites using modern development tools and develop my skills in fronte
 I also like to use 3D graphics in frontend to make even more beautiful and unusual websites </br>
 
 <h3 align="center">
-   <a href="https://portfolio-react-ib1zza.vercel.app/">• My React portfolio (click)           </a> &nbsp;&nbsp;&nbsp; <a href="https://threejs-portfolio-ib1zza.vercel.app/">• My ThreeJs portfolio (click)</a>
+   <a href="https://ib1zza.github.io/">• My React portfolio (click)           </a> &nbsp;&nbsp;&nbsp; <a href="https://threejs-portfolio-ib1zza.vercel.app/">• My ThreeJs portfolio (click)</a>
 </h3>
 
 <h2 align="center">
