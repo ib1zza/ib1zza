@@ -11,8 +11,8 @@
 </div>
 
 :man_student: I am a college student majoring in programming. </br>
-:man_technologist:  I'm currently working on a project  <a href="https://github.com/ib1zza/movies_frontend">
-                     Cinema tickets frontend
+:man_technologist:  I'm currently working on a project  <a href="https://github.com/ib1zza/react-chat">
+                     RChat
                   </a>
 </br>
 I create websites using modern development tools and develop my skills in frontend development. </br>
