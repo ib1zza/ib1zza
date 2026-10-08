@@ -1,147 +1,80 @@
+<h1 align="center">Hi, I'm Mikhail Pshenichny 👋</h1>
+
+<p align="center">
+  Frontend Developer · Vue · Nuxt · React · TypeScript
+</p>
+
+<p align="center">
+  I build responsive, performance-oriented interfaces, reusable UI systems, and animation-rich web experiences.
+</p>
+
+<p align="center">
+  <a href="https://ib1zza.github.io/portfolio-2025/"><b>Current portfolio</b></a> ·
+  <a href="https://t.me/ib1zza">Telegram</a> ·
+  <a href="mailto:dremast1337@gmail.com">Email</a>
+</p>
+
+## About me
+
+Frontend developer based in Saint Petersburg, Russia. I work with Vue, Nuxt, React, TypeScript, and modern CSS to create polished production websites and web applications.
+
+I enjoy combining strong visual design, smooth interaction, 3D, and clean frontend architecture.
+
+## Experience
+
+### GROKHOTOV STUDIO · Nuxt Developer
+
+*September 2025 — present*
+
+- Build commercial websites and interactive interfaces with Vue 3, Composition API, and Nuxt 4.
+- Develop reusable UI-kit components, custom transitions, scroll animations, and Swiper interactions.
+- Improve Lighthouse metrics through SSR, lazy loading, dynamic imports, and media optimisation.
+- Participate in code reviews and production releases.
+
+### ApexNovaTech · React + TypeScript Developer
+
+*January 2025 — August 2025*
+
+- Built profile and recommendation interfaces.
+- Created UI animations with Motion.
+- Collaborated with UX/UI designers and backend developers on API integration.
+- Refactored legacy code and participated in code reviews.
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,nuxt,react,nextjs,redux,html,css,sass,threejs,vite,webpack,git,figma" alt="Tech stack" />
+</p>
+
+- **Frontend:** TypeScript, JavaScript, Vue, Nuxt, React, Next.js
+- **State management:** Pinia, Redux Toolkit, RTK Query
+- **Styling & animation:** SCSS, CSS Modules, Motion
+- **Quality & tooling:** Storybook, Jest, Cypress, Vite, Webpack
+
+## Current portfolio
+
+**[portfolio-2025](https://ib1zza.github.io/portfolio-2025/)** is my current portfolio — an interactive experience inspired by the classic Macintosh desktop.
+
+Built with React 19, TypeScript, Zustand, Framer Motion, React Three Fiber, and Three.js.
+
+## Previous portfolio sites
+
+These are earlier portfolio experiments and are kept as an archive:
+
+- [React portfolio](https://ib1zza.github.io/)
+- [Three.js portfolio](https://threejs-portfolio-ib1zza.vercel.app/)
 
 
+## Codewars
 
+<p>
+  <a href="https://www.codewars.com/users/ib1zza">
+    <img src="https://www.codewars.com/users/ib1zza/badges/large" alt="Codewars badge" />
+  </a>
+</p>
 
+## Contacts
 
-<h2 align="center">
-  :sparkles: About me
-</h2>
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=Hello+there!;I'm+Mikhail+Pshenichnyy+;Front-end+developer" alt="Typing SVG" /></a>
-</div>
-
-:man_student: I am a college student majoring in programming. </br>
-:man_technologist:  I'm currently working on a project  <a href="https://github.com/ib1zza/react-kanban">
-                     React-Kanban
-                  </a>
-</br>
-I create websites using modern development tools and develop my skills in frontend development. </br>
-I also like to use 3D graphics in frontend to make even more beautiful and unusual websites </br>
-
-<h3 align="center">
-   <a href="https://ib1zza.github.io/">• My React portfolio            </a> &nbsp;&nbsp;&nbsp; <a href="https://threejs-portfolio-ib1zza.vercel.app/">• My ThreeJS portfolio</a>
-</h3>
-
-<h2 align="center">
-  🔨 Technologies that I use:
-</h2>
-
-<div align="center"> 
-
-<table>
-          <tr>
-              <td align="center" width="96">
-                  <a href="https://learn.javascript.ru/">
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" />
-                  </a>
-                  <br>JavaScript
-                                  <td align="center" width="96">
-                  <a href="https://www.typescriptlang.org/">
-                      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="48" height="48" alt="typescript" />
-                  </a>
-                  <br>TypeScript
-              </td>
-                <td align="center" width="96">
-                  <a href="https://reactjs.org/">
-                      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="react" />
-                  </a>
-                  <br>React
-              </td>
-                            <td align="center" width="96">
-                  <a href="https://threejs.org/">
-                      <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" width="48" height="48" alt="Three js" />
-                  </a>
-                  <br>Three js
-              </td>
-          </tr>
-  <tr>
-              <td align="center" width="96">
-                  <a href="https://sass-lang.com">
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="sass" />
-                  </a>
-                  <br>Sass
-              </td>
-              <td align="center" width="96">
-                  <a href="https://webpack.js.org/" >
-                      <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="48" height="48" alt="webpack" />
-                  </a>
-                  <br>Webpack
-              </td>
-              </td>
-              <td align="center" width="96">
-                  <a href="https://redux-toolkit.js.org/">
-                      <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
-                  </a>
-                  <br>Redux
-              </td>
-             <td align="center" width="96">
-                  <a href="https://jestjs.io/ru/">
-                      <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
-                  </a>
-                  <br>Jest
-              </td>
-            </tr>
-            <tr>
-              <td align="center" width="96">
-                  <a href="https://storybook.js.org">
-                      <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" width="48" height="48" alt="Storybook" />
-                  </a>
-                  <br>Storybook
-              </td>
-               <td align="center" width="96">
-                  <a href="https://nextjs.org">
-                      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next js" />
-                  </a>
-                  <br>Next js
-              </td>
-              <td align="center" width="96">
-                  <a href="https://firebase.google.com">
-                      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
-                  </a>
-                  <br>Firebase
-              </td>
-              <td align="center" width="96">
-                  <a href="https://www.i18next.com">
-                      <img src="https://www.vectorlogo.zone/logos/i18next/i18next-icon.svg" width="48" height="48" alt="i18n" />
-                  </a>
-                  <br>i18n
-              </td>
-            </tr>
-</table>
-</div>
-
-
-<h2 align="center">
-  :speech_balloon: Contact me
-</h2>
-  
-- Email: <a href="mailto:ib1zza@icloud.com">ib1zza@icloud.com</a>
-- Telegram: <a href="https://t.me/ib1zza">@ib1zza</a>
- 
-<h2 align="center">
-  :man_technologist: My codewars
-</h2>
-
-<div align="center">
-  
-   [![codewars](https://www.codewars.com/users/ib1zza/badges/large)](https://www.codewars.com/users/ib1zza)   
-   
-</div>
-
-
-
-
-<!--
-**ib1zza/ib1zza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Telegram: [@ib1zza](https://t.me/ib1zza)
+- Email: [dremast1337@gmail.com](mailto:dremast1337@gmail.com)
+- GitHub: [@ib1zza](https://github.com/ib1zza)
